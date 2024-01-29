@@ -1,0 +1,35 @@
+body{
+    background-color:#7B66FF;
+    height: 2000px;
+}
+.home {
+    background-color: #5FBDFF;
+    text-align: center;
+    padding: 20px;
+}
+.home div{
+    width: 30%;
+    display: inline-block;
+    background-color:blueviolet;
+    border: 3px white solid;
+    padding: 5px;
+}
+.home div img {
+    width: 100%;
+}
+button{
+    background-color:#5FBDFF;
+    color:white;
+    border-radius: 10px;
+    border: 1px white solid;
+    width: 100px;
+    height: 40px;            
+}
+.sheat{
+    background-image: url("./img/img-1.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 450px;
+    margin-top: 40px;
+}
